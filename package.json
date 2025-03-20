@@ -1,0 +1,21 @@
+{
+  "name": "mulahassessment",
+  "version": "1.0.0",
+  "description": "MulahInternshipAssessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiky0903/MulahAssessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aiky0903/MulahAssessment/issues"
+  },
+  "homepage": "https://github.com/Aiky0903/MulahAssessment#readme"
+}
